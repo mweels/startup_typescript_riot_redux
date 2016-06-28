@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "experimentalDecorators": true
+  },
+  "exclude": ["node_modules", "bower_components","config", "dev_server.js"]
+}
